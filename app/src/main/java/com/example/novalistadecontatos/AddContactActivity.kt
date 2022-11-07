@@ -6,7 +6,7 @@ import com.example.novalistadecontatos.databinding.ActivityAddContactBinding
 
 class AddContactActivity : AppCompatActivity() {
 
-    lateinit var binding: ActivityAddContactBinding
+    private lateinit var binding: ActivityAddContactBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
