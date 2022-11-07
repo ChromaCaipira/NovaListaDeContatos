@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NovaListaDeContatos</string>
+    <string name="adicionar_contato">Adicionar Contato</string>
+    <string name="lista_de_contatos">Lista de Contatos</string>
+    <string name="telefone">Telefone</string>
+    <string name="nome">Nome</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="texto">texto</string>
+</resources>
